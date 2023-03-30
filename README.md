@@ -17,6 +17,7 @@
   - 스플래시 스크린
   - Remote Notification
   - Swipe Refresh Layout
+  - DDDLite 가 아닌 제대로된 Domain Layer 구현
 
 ---
 
