@@ -1,3 +1,9 @@
+- 버전
+  - Android Studio Electric Eel | 2022.1.1 Patch 2
+  - Kotlin 1.8.20 
+
+---
+
 - 앱 간단 소개
   - 세종대 컴공 17 동기들의 정보공유를 위한 앱입니다.
   - 물론 네이버 카페나 밴드 등을 사용할 수 있지만 직접 만들어보며 개발적인 실력을 쌓고 싶었습니다.
@@ -24,6 +30,7 @@
 
 - 개발 과정
 
+- 2023-03-30 : Hilt & MVVM & android app architecture SetUp
 
 ---
 
