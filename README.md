@@ -25,6 +25,7 @@
   - Swipe Refresh Layout
   - DDDLite 가 아닌 제대로된 Domain Layer 구현
   - 다크모드 제대로 만들기
+  - 
 
 ---
 
