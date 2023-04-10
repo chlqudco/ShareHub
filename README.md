@@ -17,7 +17,7 @@
   - Pull requests 조사
   - 깃헙 기능들 다 조사
   - Firebase 기능 다 조사
-  - Ktor
+  - Ktor https://onlyfor-me-blog.tistory.com/498
   - Hilt
   - 제대로 된 오류 캐치
   - 스플래시 스크린
